@@ -1,0 +1,1 @@
+Note: Make sure you select center of cube first to use gimbals!
